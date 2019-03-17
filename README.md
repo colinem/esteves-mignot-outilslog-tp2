@@ -6,3 +6,5 @@
 ![commit](images/commit.PNG)
 ### Création d'une branche
 ![branch](images/branch.PNG)
+### Versionning
+![versionning](images/versionning.PNG)

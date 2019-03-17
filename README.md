@@ -8,3 +8,6 @@
 ![branch](images/branch.PNG)
 ### Versionning
 ![versionning](images/versionning.PNG)
+## ZSH
+### Plugins
+![plugin](images/plugin.png)

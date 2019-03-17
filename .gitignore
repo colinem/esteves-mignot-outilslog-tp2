@@ -21,3 +21,67 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+#---------------------------------------#
+# Project Ignores                       #
+#---------------------------------------#
+
+# output
+/.temp
+/.tmp
+/build
+/dist
+
+# dependencies
+/nodemodules
+.package.swp
+
+# linters
+.eslintcache/
+.eslintrc
+.eslintrc.yaml
+.eslintrc.json
+.eslintrc.js
+.stylelintcache/
+.stylelintrc
+.stylelintrc.yaml
+.stylelintrc.json
+.stylelintrc.js
+
+# misc
+/connect.lock
+/coverage/*
+/report*
+/reports/
+.sass-cache/
+.log
+
+
+#---------------------------------------#
+# IDEs & Editors Ignores                #
+#---------------------------------------#
+
+# Sublime Text
+/.sublime*
+.sublime-gulp.cache
+
+# JetBrains IDEs
+/.idea
+
+
+#---------------------------------------#
+# General Ignores                       #
+#---------------------------------------#
+
+*~
+.orig
+.vagrant
+
+
+#---------------------------------------#
+# Linux Ignores                         #
+#---------------------------------------#
+
+# KDE directory preferences
+.directory

@@ -11,3 +11,6 @@
 ## ZSH
 ### Plugins
 ![plugin](images/plugin.png)
+## Git GUI
+### Arbre de branches Git
+![tree](images/tree.png)

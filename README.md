@@ -15,4 +15,4 @@
 ### Arbre de branches Git
 ![tree](images/tree.png)
 ##Gestion de projet sur GitLab
-![gitlab](images/gitlap.png)
+![gitlab](images/gitlab.png)

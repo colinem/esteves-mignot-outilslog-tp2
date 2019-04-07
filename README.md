@@ -14,5 +14,6 @@
 ## Git GUI
 ### Arbre de branches Git
 ![tree](images/tree.png)
+
 ##Gestion de projet sur GitLab
 ![gitlab](images/gitlab.png)
